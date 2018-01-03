@@ -152,6 +152,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
+  1. [Remote OK](https://remoteok.io/) - tech and non-tech remote jobs filterable
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
@@ -408,6 +409,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
+1. [Nomad List Chat](https://nomadlist.com/chat) - Nomad List Chat
+1. [Digital Nomad Forum](https://nomadlist.com/forum) - Digital Nomad Forum
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [Remote Year](http://www.remoteyear.com/) - Traveling techies for 1 year.
